@@ -1,0 +1,11 @@
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\bin\Debug\netcoreapp2.0\MoizProject.deps.json
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\bin\Debug\netcoreapp2.0\MoizProject.runtimeconfig.json
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\bin\Debug\netcoreapp2.0\MoizProject.runtimeconfig.dev.json
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\bin\Debug\netcoreapp2.0\MoizProject.dll
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\bin\Debug\netcoreapp2.0\MoizProject.pdb
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.csprojResolveAssemblyReference.cache
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.csproj.CoreCompileInputs.cache
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.AssemblyInfoInputs.cache
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.AssemblyInfo.cs
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.dll
+C:\Users\Moiz\source\repos\MoizProject\MoizProject\obj\Debug\netcoreapp2.0\MoizProject.pdb
